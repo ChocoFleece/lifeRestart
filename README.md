@@ -2,54 +2,55 @@
 
 <a href="https://discord.gg/U3qrf49NMQ"><img src="https://img.shields.io/discord/883382868427014255?color=%23FEE75C&label=Discord&logo=discord&logoColor=white&style=for-the-badge" /></a>
 
-English | [简体中文](./README-zh_CN.md)
+[English](./README.md) | 简体中文
 
-## Introduction
+## 简介
 
 - Game Life Restart
 
-## Usage
+## 使用
 
 <details>
-<summary><strong>Web Version</strong></summary>
+<summary><strong>网页版</strong></summary>
 <br />
 
-1. Clone project code.
+1. 下载项目代码。
 
 ```bash
-git clone git@github.com:VickScarlet/lifeRestart.git my-project
+git clone https://github.com/VickScarlet/lifeRestart.git my-project
 cd my-project
 ```
 
-2. Installation dependence.
+2. 进入目录安装依赖。
 
 ```bash
 yarn install
 ```
 
-Or
+或者
 
 ```bash
 npm install
 ```
 
-3. Start local server.
+3. 启动本地服务器。
 
 ```bash
 yarn dev
 ```
 
-Or
+或者
 
 ```bash
 npm run dev
 ```
 
-4. After the startup is complete, will automatically open a browser and visit [http://localhost:8081/view/index.html](http://localhost:8081/view/index.html).
+4. 启动完成后会自动打开浏览器访问 [http://localhost:8081/view/index.html](http://localhost:8081/view/index.html)。
+
 </details>
 
 <details>
-<summary><strong>Command Line Version</strong></summary>
+<summary><strong>控制台版本</strong></summary>
 <br />
 
 ```bash
@@ -58,14 +59,14 @@ node repl
 
 </details>
 
-## Other Version
+## 其他版本
 
 <details>
-<summary><strong>Versions</strong></summary>
+<summary><strong>版本列表</strong></summary>
 <br />
 
-- Cocos Ver: [gameall3d/LifeRestart_Cocos](https://github.com/gameall3d/LifeRestart_Cocos)
+- Cocos版：[gameall3d/LifeRestart_Cocos](https://github.com/gameall3d/LifeRestart_Cocos)
 
 </details>
 
-> More instructions at [documentation](https://liferestart.syaro.io/).
+> 更多信息请参考 [官网文档](https://liferestart.syaro.io/)。
